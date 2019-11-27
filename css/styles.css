@@ -30,7 +30,7 @@ body{
     padding-bottom: 10px;
     border-radius: 4px;
 }
-.nav-link{
+.nav-link @media screen and (min-width: 600px){
     color:white;
     margin-right: -4px;
     text-decoration: none;
