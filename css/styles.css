@@ -40,6 +40,7 @@ body{
 @media screen and (max-width: 600px)
 {
  .nav-link{
+  margin: auto;
   text-align: center;
   display: block;
  }
