@@ -35,7 +35,7 @@ body{
     margin-right: -4px;
     text-decoration: none;
     width: 33%;
-    display: block;
+    display: inline-block;
 }
 .text-center{
     text-align: center;
