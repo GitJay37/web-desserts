@@ -37,6 +37,13 @@ body{
     width: 33%;
     display: inline-block;
 }
+@media screen and (max-width: 600px)
+{
+ .nav-link{
+  text-align: center;
+  display: block;
+ }
+}
 .text-center{
     text-align: center;
 }
